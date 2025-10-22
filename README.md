@@ -20,10 +20,10 @@ A presentation that explores the hidden complexities of developing healthcare ap
 **Available formats:**
 - 🇬🇧 **English Version**: 
   - [View Online](https://icure.github.io/presentations/taming-healthcare-development/short.html) (HTML)
-  - [Download PowerPoint](https://icure.github.io/presentations/taming-healthcare-development/short.pptx) (PPTX)
+  - [Download PowerPoint](https://github.com/icure/presentations/raw/refs/heads/main/taming-healthcare-development/short.pptx) (PPTX)
 - 🇫🇷 **French Version**: 
   - [Voir en Ligne](https://icure.github.io/presentations/taming-healthcare-development/short.fr.html) (HTML)
-  - [Télécharger PowerPoint](https://icure.github.io/presentations/taming-healthcare-development/short.fr.pptx) (PPTX)
+  - [Télécharger PowerPoint](https://github.com/icure/presentations/raw/refs/heads/main/taming-healthcare-development/short.fr.pptx) (PPTX)
 
 ## About iCure
 
