@@ -18,8 +18,12 @@ A presentation that explores the hidden complexities of developing healthcare ap
 - Regulatory compliance (GDPR, MDR, ISO certifications)
 
 **Available formats:**
-- 🇬🇧 **English Version**: [View Presentation](https://icure.github.io/presentations/taming-healthcare-development/short.html)
-- 🇫🇷 **French Version**: [Voir la Présentation](https://icure.github.io/presentations/taming-healthcare-development/short.fr.html)
+- 🇬🇧 **English Version**: 
+  - [View Online](https://icure.github.io/presentations/taming-healthcare-development/short.html) (HTML)
+  - [Download PowerPoint](https://icure.github.io/presentations/taming-healthcare-development/short.pptx) (PPTX)
+- 🇫🇷 **French Version**: 
+  - [Voir en Ligne](https://icure.github.io/presentations/taming-healthcare-development/short.fr.html) (HTML)
+  - [Télécharger PowerPoint](https://icure.github.io/presentations/taming-healthcare-development/short.fr.pptx) (PPTX)
 
 ## About iCure
 
@@ -35,8 +39,10 @@ presentations/
 └── taming-healthcare-development/
     ├── short.md           # English Markdown source
     ├── short.html         # English HTML presentation
+    ├── short.pptx         # English PowerPoint presentation
     ├── short.fr.md        # French Markdown source
     ├── short.fr.html      # French HTML presentation
+    ├── short.fr.pptx      # French PowerPoint presentation
     ├── logo.svg           # iCure logo
     └── cardinal.svg       # Cardinal logo
 ```
