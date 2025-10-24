@@ -273,12 +273,21 @@ Building a medical app means:
 
 <!-- _class: lead -->
 
-# Questions?
+# The Good News
 
-**The good news:** Solutions exist. Cardinal handle this complexity so you can focus on building great medical apps.
+**Solutions exist!**
+Cardinal handle this complexity so you can focus on building great medical apps.
 
 *Don't build it all yourself. Focus on what makes you special.*
 
+iCure is ISO 27001:2022, ISO 13485, HDS v2 certified.
+
 cardinalsdk.com - ad@icure.com
 
-**iCure certifications:** ISO 27001:2022, ISO 13485, HDS v2
+**Next steps**
+*Now: have a sandwich & let's discuss!*
+*Next: Dedicated Digital Health Workshops*
+- Workshop#1 : Go-to-Market for Startup
+- Workshop#2 : Cloud & AI transition for SME
+- Workshop#3 : Enter the EU & Swiss Market for International Corporation
+*Details & how to subscribe:*  
