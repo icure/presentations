@@ -168,7 +168,7 @@ style: |
 - **Tamper-proof logs** - Logs themselves must be immutable and verifiable
 - **Legal evidence** - Audit logs must hold up in court
 
-*If it's not logged, it didn't happen (and you're liable).*
+*If it's not logged, it didn't happen (and you're liable).* 
 
 ---
 
@@ -280,3 +280,5 @@ Building a medical app means:
 *Don't build it all yourself. Focus on what makes you special.*
 
 cardinalsdk.com - ad@icure.com
+
+**iCure certifications:** ISO 27001:2022, ISO 13485, HDS v2
