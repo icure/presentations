@@ -276,6 +276,7 @@ Building a medical app means:
 # The Good News
 
 **Solutions exist!**
+
 Cardinal handle this complexity so you can focus on building great medical apps.
 
 *Don't build it all yourself. Focus on what makes you special.*
